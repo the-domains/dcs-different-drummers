@@ -1,4 +1,3 @@
-layout_spectrum: 0.3763977864291519
 typography_spectrum: 0.45789641491137445
 color:
   brandStrength: 0.7834811548236758
@@ -11,4 +10,9 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.3763977864291519
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2b336eb-52bd-46a8-80ed-c8792b35ce63.png
 name: DC's Different Drummers
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f97809e-f592-4908-9a27-201dff2c1b4a.png

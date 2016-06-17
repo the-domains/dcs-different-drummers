@@ -5,18 +5,20 @@ description: >-
   performance of "Like a River Runs" for the Logo Trailblazers Awards broadcast
   on Saturday, June 27th at the Cathedral of St. John the Divine in New York
   City.
-dateModified: '2016-06-17T18:52:56.721Z'
-datePublished: '2016-06-17T18:53:10.962Z'
+dateModified: '2016-06-17T18:59:09.900Z'
+datePublished: '2016-06-17T20:09:00.303Z'
 title: DCDD does Logo Trailblazers Awards
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-dcdd-does-logo-trailblazers-awards.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfe1520b-6838-43a7-8cd4-d096b90dc7ef.jpg)
+
 # DCDD does Logo Trailblazers Awards
 
 Percussionists from the concert, marching, and jazz bands of DC's Different Drummers performed as a backup drum line for the Bleachers during their performance of "Like a River Runs" for the Logo Trailblazers Awards broadcast on Saturday, June 27th at the Cathedral of St. John the Divine in New York City.
@@ -27,5 +29,4 @@ During the ride up to NYC, the drum line learned their music, arranged by Brian 
 
 Watch the video below!
 
-<div style="background-color:\#000000;width:520px;"\><div style="padding:4px;"\><iframe src="http://media.mtvnservices.com/embed/mgid:uma:video:logotv.com:1214989" width="512" height="288" frameborder="0"\></iframe\><p style="text-align:left;background-color:\#FFFFFF;padding:4px;margin-top:4px;margin-bottom:0px;font-family:Arial, Helvetica, sans-serif;font-size:12px;"\>Get More:   
-<a href="http://www.logotv.com/music/artist/bleachers\_\_2\_/artist.jhtml" style="color:\#439CD8;" target="\_blank"\>Bleachers</a\>, <a href="http://www.logotv.com/video/unplugged/bleachers/1214989/2015-trailblazer-honors-bleachers-performs-like-a-river-runs.jhtml\#id=1736620&amp;vid=1214989" style="color:\#439CD8;" target="\_blank"\>2015 Trailblazer Honors: Bleachers Performs "Like A River Runs"</a\>, <a href="http://www.logotv.com/" style="color:\#439CD8;" target="\_blank"\>Logo TV</a\></p\></div\></div\>
+http://www.logotv.com/video/unplugged/bleachers/1214989/2015-trailblazer-honors-bleachers-performs-like-a-river-runs.jhtml\#id=1736620

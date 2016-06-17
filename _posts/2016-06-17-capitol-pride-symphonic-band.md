@@ -8,18 +8,20 @@ description: >-
   feature musicians from a number of backgrounds, from virtuosos to enthusiastic
   recreational players. With the span of musical selections we play, this is an
   excellent ensemble for members to develop their musical skills and exposure.
-dateModified: '2016-06-17T18:46:23.468Z'
-datePublished: '2016-06-17T18:49:56.928Z'
+dateModified: '2016-06-17T19:00:21.290Z'
+datePublished: '2016-06-17T20:09:27.854Z'
 title: Capitol Pride Symphonic Band
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-capitol-pride-symphonic-band.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd1518fe-cd5f-41ab-a711-0dec550360ef.jpg)
+
 # Capitol Pride Symphonic Band
 
 The Capital Pride Symphonic Band is the D.C. Different Drummers' largest ensemble, and features all instruments from the classic concert band. We pride ourselves in the variety of music we play, spanning the repertoire from standard concert band marches, to Broadway melodies, to all styles of classic and modern music, and new compositions. We welcome all musical skill-sets, and feature musicians from a number of backgrounds, from virtuosos to enthusiastic recreational players. With the span of musical selections we play, this is an excellent ensemble for members to develop their musical skills and exposure.
@@ -27,8 +29,6 @@ The Capital Pride Symphonic Band is the D.C. Different Drummers' largest ensembl
 In recent years, the Capital Pride Symphonic Band has performed at numerous venues in the National Capital Region, including at the Kennedy Center, the H Street NE Atlas Theatre, the Shakespeare Theatre Company's Harman Center, the Bell Multicultural High School, Capital Hill's Church of the Reformation, Metro Center's Church of the Epiphany, and the Maryland Music Educators Association annual conference. The Capital Pride Symphonic Band is also proud to frequently include guest soloists from a variety of schools and institutions in our concerts.
 
 The Capital Pride Symphonic Band performs at least two concerts a year (in the Fall and Spring), hosts one band camp retreat per rehearsal schedule, and holds regularly scheduled rehearsals every Monday evening. Rehearsals at held at Capital Hill's Lutheran Church of the Reformation at 7:00 p.m. - 9:30 p.m. Those interested in joining are encouraged to email our Membership chair at [Membership@DCDD.org][0] for more information.
-
-## Directors
 
 ### Anthony Oakley, Director
 

@@ -5,23 +5,23 @@ description: >-
   of the more interesting venues around the DC area, including Strathmore and
   the Torpedo Factory. Everyone is invited to participate, though beginners may
   find it challenging.
-dateModified: '2016-06-17T18:48:27.537Z'
-datePublished: '2016-06-17T18:49:56.919Z'
+dateModified: '2016-06-17T19:00:03.801Z'
+datePublished: '2016-06-17T20:09:22.008Z'
 title: 2nd Independence
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-2nd-independence.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ae70dc8-9116-4a5d-bb06-cf9da17eb696.png)
+
 # 2nd Independence
 
 2nd Independence is a small-format jazz group that plays standards with a high emphasis on improvisation. They meet once a month to jam and perform in some of the more interesting venues around the DC area, including Strathmore and the Torpedo Factory. Everyone is invited to participate, though beginners may find it challenging.
-
-## Director
 
 ### Matt Leonhardt, Director
 

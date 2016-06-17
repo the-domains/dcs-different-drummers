@@ -13,18 +13,20 @@ description: >-
   contingents to participate in this seminal American parade. Our ensemble
   frequently performs informal on-the-spot concerts in Washington, D.C. as well,
   and periodically at private events.
-dateModified: '2016-06-17T18:49:27.633Z'
-datePublished: '2016-06-17T18:49:56.923Z'
+dateModified: '2016-06-17T18:59:56.783Z'
+datePublished: '2016-06-17T20:09:18.728Z'
 title: DCDD Marching Band
 author: []
-starred: false
 sourcePath: _posts/2016-06-17-dcdd-marching-band.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c80d3962-6692-4f01-8d3a-3d32f5711baf.jpg)
+
 # DCDD Marching Band
 
 The Different Drummers' Marching Band is our organization's first established and most visible ensemble. The group encompasses marching woodwinds, brass, percussion, along with a traditional color guard. Our marching band performs annually in the Washington D.C.'s Capital Pride Parade and Pride Festival along with numerous other East Coast Pride engagements including Boston, New York, Philadelphia, Baltimore, New Hope, and many more. Different Drummers partners with TeamDC and performs annually through the summer "Night Out" series including performances at D.C. United soccer games and the National baseball games. The Different Drummers also marched in the 2009 and 2013 Inaugural Parades with the Lesbian and Gay Band Association, the first LGBT contingents to participate in this seminal American parade. Our ensemble frequently performs informal on-the-spot concerts in Washington, D.C. as well, and periodically at private events.
@@ -32,8 +34,6 @@ The Different Drummers' Marching Band is our organization's first established an
 We welcome all musical skill sets to this ensemble.
 
 The Different Drummers' marching band holds rehearsals from spring through the summer, on Monday evenings from 7:00 p.m. to 9:30 p.m. Our usual rehearsal venue is at 1st and N Streets, SE, adjacent to National's Stadium at Navy Yard, along with one weekend band camp retreat. Interested individuals should contact D.C.'s Different Drummers at [Membership@DCDD.org][0] for more information.
-
-## Director
 
 ### Derrick Johnson, Director
 

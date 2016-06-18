@@ -13,8 +13,8 @@ description: >-
   contingents to participate in this seminal American parade. Our ensemble
   frequently performs informal on-the-spot concerts in Washington, D.C. as well,
   and periodically at private events.
-dateModified: '2016-06-17T18:59:56.783Z'
-datePublished: '2016-06-17T20:09:18.728Z'
+dateModified: '2016-06-18T13:43:59.323Z'
+datePublished: '2016-06-18T13:44:46.457Z'
 title: DCDD Marching Band
 author: []
 sourcePath: _posts/2016-06-17-dcdd-marching-band.md

@@ -5,8 +5,8 @@ description: >-
   of the more interesting venues around the DC area, including Strathmore and
   the Torpedo Factory. Everyone is invited to participate, though beginners may
   find it challenging.
-dateModified: '2016-06-17T19:00:03.801Z'
-datePublished: '2016-06-17T20:09:22.008Z'
+dateModified: '2016-06-18T13:44:38.734Z'
+datePublished: '2016-06-18T13:44:49.512Z'
 title: 2nd Independence
 author: []
 sourcePath: _posts/2016-06-17-2nd-independence.md

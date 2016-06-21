@@ -1,16 +1,16 @@
 typography_spectrum: 0.26277544000186026
 color:
-  brandStrength: 0.9919895208440721
-  lightness: 0.6364008593373001
-  saturation: 0.5345366604160517
-  rhythmicContrast: 0.7625154438428581
+  brandStrength: 0.19527740008197725
+  lightness: 0.6678054858930409
+  saturation: 0.5039986215997487
+  rhythmicContrast: 0.26410090271383524
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
-layout_spectrum: 0.799394944217056
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+layout_spectrum: 0.03190155909396708
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2b336eb-52bd-46a8-80ed-c8792b35ce63.png
 name: DC's Different Drummers

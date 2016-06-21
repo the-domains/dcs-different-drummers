@@ -2,38 +2,10 @@
     <channel>
         <title><![CDATA[DC's Different Drummers]]></title>
         <description><![CDATA[DC's Different Drummers]]></description>
-        <link>https://thegrid.ai/dcs-different-drummers/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 01:40:35 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/dcs-different-drummers/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[DC's Different Drummers @ Baltimore Pride]]></title>
-            <description><![CDATA[<article><h1>DC's Different Drummers @ Baltimore Pride</h1><p>Just some clips of DCDD warming up and then marching in Baltimore's pride parade. Sorry if it's a little shaky, I can't hold a damn camera steady to save my life!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32410419d05aa73705a1c3f64c1f7bd4/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FiL-r1hru_4U%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=iL-r1hru_4U</link>
-            <guid isPermaLink="false">346e4529-7016-4e93-aa05-22738f9d0d18</guid>
-            <pubDate>Tue, 21 Jun 2016 01:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Band in Motion - Metro Weekly]]></title>
-            <description><![CDATA[<article><h1>Band in Motion - Metro Weekly</h1><p>Bandmates: Clockwise from top: Conductor Scott Barker, Matt Swearman, Eddie Banks, Anja Maguire, Jodi Hains, Kim Webb, and Marc Martin-ez. (Photo by Michael Wichita ) The colorful sight of a marching band parading down the street during Capital Pride might be the first image that comes to mind when you think of the gay and lesbian musical organization D.C.'s Different Drummers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e8b9f38d9e59e07157c2d30f5fad6f7e/noop.jpg?input=http%3A%2F%2Fwww.metroweekly.com%2Farticles%2Fattachments%2F2003-04-03_arts_and_entertainment_418_408.jpg"></article>]]></description>
-            <link>http://www.metroweekly.com/2003/04/band-in-motion/</link>
-            <guid isPermaLink="false">cb985d36-f170-40ef-9b9e-fc8c31b5e35b</guid>
-            <pubDate>Tue, 21 Jun 2016 01:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Different Drummers]]></title>
-            <description><![CDATA[<article><h1>Different Drummers</h1><p>Last weekend we went to a concert at the Church of the Epiphany to hear DC's Different Drummers, of the Capitol Pride Symphonic Band. They sponsor a concert band, jazz swing band, and get this - a marching band! Several of the band members bring their horns to my shop, so I placed my very...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d18ae68de336498c4bc1960dc88ec9c8/croprotate?cropheight=2738&cropwidth=2449&degrees=0&input=https%3A%2F%2Frandyjmueller.files.wordpress.com%2F2016%2F04%2Fimage13.jpeg%26h%3D716&x=0&y=0"></article>]]></description>
-            <link>https://randyjmueller.com/2016/04/09/different-drummers/</link>
-            <guid isPermaLink="false">a518c111-d898-4cf4-97f8-4419a864c8e3</guid>
-            <pubDate>Tue, 21 Jun 2016 01:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seasonal Sounds - Metro Weekly]]></title>
-            <description><![CDATA[<article><h1>Seasonal Sounds - Metro Weekly</h1><p>Though Mother Nature has yet to conjure a winter wonderland in the capital, D.C.'s Different Drummers (DCDD) have the soundtrack at the ready with ''Winter Dreams,'' a holiday concert featuring DCDD's Capital Pride Symphonic Band and D.C. Swing! Taking the baton for the Saturday, Dec.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e25b49093d266f5f418dbc09b5a0cec/noop.jpg?input=http%3A%2F%2Fwww.metroweekly.com%2Fwp-content%2Fuploads%2F2006%2F12%2F2006-12-14_concert_2454_3272.jpg"></article>]]></description>
-            <link>http://www.metroweekly.com/2006/12/seasonal-sounds/</link>
-            <guid isPermaLink="false">9dea089d-f837-426a-b29d-70cbc3fd32b4</guid>
-            <pubDate>Tue, 21 Jun 2016 01:40:12 GMT</pubDate>
-        </item>
+        <lastBuildDate>Tue, 21 Jun 2016 01:40:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Sound of Music - Metro Weekly]]></title>
             <description><![CDATA[<article><h1>The Sound of Music - Metro Weekly</h1><p>Is Joe Bello Godzilla? ''Maybe,'' laughs the executive director of D.C.'s Different Drummers. Officially, Bello will just be the conductor of the Capitol Pride Symphonic Band and Capitol Pride Wind Ensemble for a few selections during DCDD's spring concert this Saturday, March 31.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02c8de22471825362221479135b27b36/noop.jpg?input=http%3A%2F%2Fwww.metroweekly.com%2Farticles%2Fattachments%2F2012-03-29_music_7205_7094.jpg"></article>]]></description>
